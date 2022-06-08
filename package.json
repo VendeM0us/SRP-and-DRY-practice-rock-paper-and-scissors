@@ -4,6 +4,7 @@
   "description": "practice refactoring a Rock Paper Scissors terminal game",
   "main": "practice.js",
   "scripts": {
+    "start": "node game.js",
     "test": "mocha"
   },
   "keywords": [],
